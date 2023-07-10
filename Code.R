@@ -1,6 +1,5 @@
 library(shiny)
 
-
 # Define UI
 ui <- fluidPage(
   titlePanel("DNA Dilution Calculator"),
