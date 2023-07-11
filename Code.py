@@ -10,6 +10,7 @@ dilution_factor = initial_concentration / desired_concentration
 volume_dna = final_volume / dilution_factor
 volume_water = final_volume - volume_dna
 
+
 # Print the volume of DNA and water
 print("Volume of DNA needed: ", volume_dna, " µl")
 print("Volume of water needed: ", volume_water, " µl")
